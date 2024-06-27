@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gucci bag",
+      "price": 30,
+      "description": "Lorem ipsum dolor sit amet, consectetur adip. Cum sociis natoque penatibus et justo",
+      "quantity": 30,
+      "image": "https://th.bing.com/th/id/OIP.liUEOfXhIEnnWspSIB0ccAHaHX?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "name": "Plastic bag",
+      "price": 30,
+      "description": "Lorem ipsum dolor sit amet, consectetur adip. Cum sociis natoque penatibus et justo",
+      "quantity": 10,
+      "image": "https://th.bing.com/th/id/R.8efeb37e5907bc9682d77e829739f4eb?rik=D7oiuUmmCM%2f9hg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "Paper bag",
+      "price": 30,
+      "description": "Lorem ipsum dolor sit amet, consectetur adip. Cum sociis natoque penatibus et justo",
+      "quantity": 20,
+      "image": "https://th.bing.com/th/id/OIP.qGfDRH65vyUXLmexNJJcRwHaHa?rs=1&pid=ImgDetMain"
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "name": "Plastic bag",
+      "price": 30,
+      "description": "Lorem ipsum dolor sit amet, consectetur adip. Cum sociis natoque penatibus et justo",
+      "quantity": 4,
+      "image": "https://th.bing.com/th/id/R.8efeb37e5907bc9682d77e829739f4eb?rik=D7oiuUmmCM%2f9hg&pid=ImgRaw&r=0"
+    }
+  ]
+}
